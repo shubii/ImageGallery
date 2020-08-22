@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DunzoAssignment</string>
+    <string name="something_went_wrong">Something went wrong!!</string>
+    <string name="welcome_image_search">Welcome to Image Search</string>
+</resources>
